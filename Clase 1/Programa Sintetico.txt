@@ -1,0 +1,29 @@
+Unidad 1: Introducción a las bases de datos
+
+Conceptos básicos
+Tipos de bases de datos y aplicaciones
+Instalación y configuración de herramientas
+
+Unidad 2: Modelo relacional y SQL
+
+Conceptos clave
+Creación de bases de datos y tablas
+Consultas básicas en SQL
+
+Unidad 3: Manipulación de datos
+
+Inserción, eliminación y actualización de registros
+Relaciones entre tablas y claves primarias/foráneas
+Integridad referencial
+
+Unidad 4: Consultas avanzadas
+
+Filtrado y ordenación de datos
+Funciones agregadas y subconsultas
+Optimización de consultas
+
+Unidad 5: Proyecto Final
+
+Diseño de una base de datos desde cero
+Creación de consultas aplicadas a un caso práctico
+Evaluación final 

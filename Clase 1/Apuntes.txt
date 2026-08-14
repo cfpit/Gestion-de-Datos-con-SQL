@@ -1,0 +1,47 @@
+Repositorio:
+github.com/cfpit
+
+Email:
+consultas.box@gmail.com
+
+SGBD (Sistema Gestor de BD): permite administrar bases de datos
+
+--> SQL
+	--> Corporativo
+		--> SQL Server --> .NET --> Microsoft
+		--> Oracle
+		--> Informix
+		--> SysDBase
+
+	--> Aplicaciones Web
+		--> MySQL 
+		--> Postgre-SQL
+
+	--> No requieren instalacion	
+	--> SQLite, H2
+
+	--> Hogar
+		--> Access
+
+		
+--> NO SQL
+	--> Mongo DB (usado por google)
+	--> Cassandra
+	--> Redis
+
+	-------------------------------------------
+
+	Servidor		
+		--> MySQL Community Server
+
+
+	Cliente
+		--> MySQL Workbench
+		--> otros
+
+	---------------------------------------------------------
+
+	Video explicativo de instalacion MySQL
+	Instalación de MySQL 🐬 para iniciar con Bases De Datos 🗃
+	https://www.youtube.com/watch?v=tPPFPC86XnQ
+
