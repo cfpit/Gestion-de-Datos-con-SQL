@@ -104,7 +104,7 @@ CREATE TABLE `productos` (
 
 LOCK TABLES `productos` WRITE;
 /*!40000 ALTER TABLE `productos` DISABLE KEYS */;
-INSERT INTO `productos` VALUES (1,'vestido',123.4,'MKF',10,'verde','2'),(2,'pantalon',209.4,'kosiuko',20,'azul','1'),(3,'vestido',123.4,'MKF',10,'verde','2'),(4,'pantalon',209.4,'kosiuko',20,'azul','8'),(5,'camisa',100.4,'zara',20,'rosa','1'),(6,'vestido',200.2,'muak',10,'morado','2'),(7,'camisa',300.1,'MKF',20,'azul','5'),(8,'gorra',80.8,'retro republic',10,'azul','1'),(9,'pantalon',160.8,'bershka',10,'marron','4'),(10,'gorra',78.9,'kosiuko',5,'negro','2');
+INSERT INTO `productos` VALUES (1,'vestido',120,'MKF',10,'verde','2'),(2,'pantalon',209,'kosiuko',20,'azul','1'),(3,'vestido',123,'MKF',10,'verde','2'),(4,'pantalon',200,'kosiuko',20,'azul','8'),(5,'camisa',100,'zara',20,'rosa','1'),(6,'vestido',200,'muak',10,'morado','2'),(7,'camisa',300,'MKF',20,'azul','5'),(8,'gorra',80,'retro republic',10,'azul','1'),(9,'pantalon',160,'bershka',10,'marron','4'),(10,'gorra',78,'kosiuko',5,'negro','2');
 /*!40000 ALTER TABLE `productos` ENABLE KEYS */;
 UNLOCK TABLES;
 
